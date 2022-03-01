@@ -13,10 +13,10 @@ Creating an API to be consumed by fronend
 - api/delete/{id} -> deletes a student with student_id
 
 ### Response Data:
-```
+```json
 {
     "id": 9278986,
-    "name": "John Doe"
+    "name": "John Doe",
     "email": "john.doe_867@gmail.com"
 }
 ```
